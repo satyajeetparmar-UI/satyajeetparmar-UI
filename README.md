@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I am passionate about UI design and development, s
 
 # 🛠️ Skills & Technologies
 
-🎨 Design Tools: Adobe XD, Figma, Sketch
+🎨 Design Tools: Adobe XD, Figma, Sketch, Adobe Photoshop, Adobe Illustrator 
 
 💻 Frontend Development: HTML, CSS, JavaScript, TypeScript
 
