@@ -13,8 +13,6 @@ Welcome to my GitHub profile! I am passionate about UI design and development, s
 
 🎨 CSS Frameworks: Bootstrap, Tailwind CSS, Material-UI
 
-🌐 Web Technologies: RESTful APIs, GraphQL, WebSockets
-
 🛠️ Version Control: Git
 
 
