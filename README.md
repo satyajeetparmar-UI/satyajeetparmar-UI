@@ -1,31 +1,37 @@
-# 🎨 UI Design and Development Portfolio
-Welcome to my GitHub profile! I am passionate about UI design and development, specializing in creating user-friendly, aesthetically pleasing, and highly functional web and mobile interfaces. Here, you will find a collection of projects and contributions that showcase my skills and experience in the UI/UX domain.
+# 🎨 UI Design & Frontend Development
 
-# 💡 Skills & Technologies
+I design and build clean, usable interfaces with a strong focus on clarity, consistency, and performance.  
+My work sits at the intersection of UI design and frontend engineering—turning ideas into reliable, user-friendly products.
 
-🎨 Design Tools: Adobe XD, Figma, Sketch, Adobe Photoshop, Adobe Illustrator 
+### What I Do 💡
+- Design intuitive user interfaces for web and mobile
+- Build responsive, accessible frontends
+- Translate design systems into scalable code
+- Focus on usability, not decoration
 
-💻 Frontend Development: HTML, CSS, JavaScript, TypeScript
+### Skills & Tools 🛠️
+**Design**
+- Figma, Adobe XD, Photoshop, Illustrator  
+- Wireframing, Prototyping, Usability Testing
 
-⚛️ Frameworks & Libraries: React, Next JS
+**Frontend** 💻
+- HTML, CSS, JavaScript, TypeScript  
+- React, Next.js  
 
-🎨 UI/UX Design: Wireframing, Prototyping, User Testing
+**Styling** 🎨
+- Tailwind CSS, Bootstrap, Material UI  
 
-💙 CSS Frameworks: Bootstrap, Tailwind CSS, Material-UI
+**Workflow** 🛠️
+- Git, component-based architecture, clean UI patterns
 
-🛠️ Version Control: Git
+### Writing 📝
+I occasionally write about UI/UX, frontend development, and design fundamentals.  
+Find my articles on **Medium**.
 
-
-# 📝 Blog & Tutorials
-I regularly write blog posts and tutorials on various UI/UX topics, including design principles, front-end development, and user research. Check out my latest articles on Medium and Dev too.
-
-# 🙌 Let's Connect
-🔗 LinkedIn: www.linkedin.com/in/satyajeetparmar
-
-🐦 Twitter: https://x.com/psatyajeet20?s=09
-
+### Connect 🙌
+🔗 LinkedIn: https://www.linkedin.com/in/satyajeetparmar  
+🐦 Twitter/X: https://x.com/psatyajeet20?s=09  
+👨🏻‍💻 Portfolio: https://ssp-web.netlify.app/
 ✉️ Email: satyajeet.parmar8@gmail.com
 
-👨🏻‍💻 Website: https://ssp-web.netlify.app/
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's create beautiful and user-friendly interfaces together!
